@@ -7,9 +7,13 @@ Finally, We analyzed the image classification accuracy of several classical dept
 ----
 RSI-CB
 ====
-## * Distribution of POI
+## 1) Distribution of POI
+
+According to the global distribution of OSM, we selected the cities such as `Beijing, Shanghai, New York and Washington, London ，Liverpool，Berlin,Tokyo,Paris,Toronto and other cities around the world`.Below are the visualization of POI distribution.
+![](https://github.com/wzx918/test/raw/master/Logo/foryou.gif)  
+
 ----
-According to the global distribution of OSM, we selected the cities such as Beijing, Shanghai and other cities in the United States, New York and Washington, and other cities in the United States, London and Liverpool, and so on. According to the global distribution of OSM data and satellite remote sensing image data, Germany and other cities such as Berlin, Cologne and other cities; cities such as Tokyo, Japan, cities such as Paris, France, cities such as Ottawa, Toronto, Russia and other cities in Brazil, Rio de Janeiro and other countries and their regions
+## 2) Category hierarchy
 
 * RSI-CB128
 -----
