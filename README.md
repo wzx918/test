@@ -17,12 +17,15 @@ According to the global distribution of OSM, we selected the cities such as `Bei
 
 According to the Chinese land classification standard and the ImageNet hierarchical grading mechanism, the common class between the Chinese land classification standard and the OSM category is selected as the priority object.
 
-
-* RSI-CB128
 -----
+## 3) RSI-CB128&RSI-CB256
+
+
+-----
+Model
+====
+We have used method of handcraft features(eg, SIFT/CH/LBP/GIST) and deep convolution networks (eg AlxeNet/VGG16/GoogleNet /ResNet) to test RSI-CB and the existing remote sensing image database (eg,UC-Merced / Sat-4 / Sat-6)) .Below are the precision contrast   
 
 
 
 
-* RSI-CB256
---------
