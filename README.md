@@ -10,10 +10,13 @@ RSI-CB
 ## 1) Distribution of POI
 
 According to the global distribution of OSM, we selected the cities such as `Beijing, Shanghai, New York and Washington, London ，Liverpool，Berlin,Tokyo,Paris,Toronto and other cities around the world`.Below are the visualization of POI distribution.
-![](https://github.com/wzx918/test/raw/master/Logo/foryou.gif)  
+  ![](https://github.com/wzx918/test/raw/master/Logo/foryou.gif)  
 
 ----
 ## 2) Category hierarchy
+
+According to the Chinese land classification standard and the ImageNet hierarchical grading mechanism, the common class between the Chinese land classification standard and the OSM category is selected as the priority object.
+
 
 * RSI-CB128
 -----
